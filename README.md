@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Self-introduction
 My favorite food is curry and sushi.
 
