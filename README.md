@@ -1,13 +1,14 @@
 # Self-introduction
+I am a student in Japan.  
 My favorite food is curry and sushi.
 
 My hobbies are Mahjong, VR and reading.
 
-I would like to develop a web application related to VR  
 I want to be able to develop and deploy services related to VR.
 
 # Language
-I'm learning Python.
+I'm learning Python.  
+I would also like to study Java Script, Type Script, and React.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=vue-dark" />
