@@ -1,5 +1,6 @@
 # Self-introduction
-I am a student in Japan.  
+I am a student in Japan.
+
 My favorite food is curry and sushi.
 
 My hobbies are Mahjong, VR and reading.
@@ -7,7 +8,8 @@ My hobbies are Mahjong, VR and reading.
 I want to be able to develop and deploy services related to VR.
 
 # Language
-I'm learning Python.  
+I'm learning Python.
+
 I would also like to study Java Script and Type Script.
 
 <p align="left"> 
