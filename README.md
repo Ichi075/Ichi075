@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ithi075/Ithi075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Self-introduction
+My favorite food is curry and sushi.
 
-Here are some ideas to get you started:
+My hobbies are Mahjong, VR and reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I would like to develop a web application related to VR  
+I want to be able to develop and deploy services related to VR.
+
+# Language
+I'm learning Python.
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=vue-dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ithi075&theme=vue-dark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ithi075&theme=vue-dark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
