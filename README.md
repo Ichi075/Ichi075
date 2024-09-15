@@ -12,6 +12,12 @@ I'm learning Python.
 
 I would also like to study Java Script and Type Script.
 
+[![HTML](https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white)]()
+[![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
+[![Python](https://custom-icon-badges.herokuapp.com/badge/Python-316de6.svg?logo=Python&logoColor=white)]()
+[![Markdown](https://custom-icon-badges.herokuapp.com/badge/Markdown-083fa1.svg?logo=Markdown&logoColor=white)]()
+[![Docker](https://custom-icon-badges.herokuapp.com/badge/Docker-1c63ed.svg?logo=Docker&logoColor=white)]()
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=vue-dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ithi075&theme=vue-dark" />
