@@ -19,7 +19,7 @@ I would also like to study Java Script and Type Script.
 [![Markdown](https://custom-icon-badges.herokuapp.com/badge/Markdown-083fa1.svg?logo=Markdown&logoColor=white)]()
 [![Docker](https://custom-icon-badges.herokuapp.com/badge/Docker-1c63ed.svg?logo=Docker&logoColor=white)]()
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,figma,gmail,instagram,notion,pr,ps,ai,xd,wordpress&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,gmail,instagram,notion,wordpress,pr,ps,ai,xd,figma&theme=light&perline=6)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=vue-dark" />
