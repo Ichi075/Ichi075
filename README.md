@@ -22,8 +22,8 @@ I would also like to study Java Script and Type Script.
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,gmail,instagram,notion,wordpress,pr,ps,ai,xd,figma&theme=light&perline=6)](https://skillicons.dev)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=vue-dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ithi075&theme=vue-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithi075&layout=compact&theme=ambient_gradient" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ithi075&theme=ambient_gradient" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ithi075&theme=vue-dark&column=7
