@@ -16,6 +16,7 @@ I would also like to study Java Script and Type Script.
 [![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
 [![Python](https://custom-icon-badges.herokuapp.com/badge/Python-316de6.svg?logo=Python&logoColor=white)]()
 [![JavaScript](https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white)]()
+[![React](https://custom-icon-badges.herokuapp.com/badge/React-000000.svg?logo=React&logoColor=white)]()
 [![Markdown](https://custom-icon-badges.herokuapp.com/badge/Markdown-083fa1.svg?logo=Markdown&logoColor=white)]()
 [![Docker](https://custom-icon-badges.herokuapp.com/badge/Docker-1c63ed.svg?logo=Docker&logoColor=white)]()
 
