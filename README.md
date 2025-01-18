@@ -1,16 +1,12 @@
 # Self-introduction
+My name is Ichinose.
+
 I am a student in Japan.
 
-My favorite food is curry and sushi.
-
-My hobbies are Mahjong, VR and reading.
-
-I want to be able to develop and deploy services related to VR.
+I like Mahjong and VR.
 
 # Language
-I'm learning Python.
-
-I would also like to study Java Script and Type Script.
+I'm learning a lot.
 
 [![HTML](https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white)]()
 [![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
