@@ -2,4 +2,4 @@
 Hi, I'm a student.
 
 ## 📙My Skills
-[![My Skills](https://skillicons.dev/icons?i=apple,arch,astro,bash,blender,bootstrap,cs,css,discord,docker,figma,git,github,gmail,html,ai,instagram,js,linux,md,neovim,nextjs,nodejs,notion,npm,ps,py,tailwind,unity,vscode,windows,wordpress&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,linux,windows,py,cs,html,css,js,md,astro,nextjs,nodejs,tailwind,bootstrap,npm,git,github,docker,bash,unity,blender,figma,ai,ps,discord,gmail,instagram,notion,vscode,neovim,wordpress&theme=dark&perline=8)](https://skillicons.dev)
