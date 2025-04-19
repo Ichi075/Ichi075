@@ -7,3 +7,4 @@ Hi, I'm a student.
 ## 📘Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichi075&show_icons=true&count_private=true&theme=react&hide=prs,contribs)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichi075&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ichi075&theme=algolia&title=-Issues,-Experience,-Stars,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
